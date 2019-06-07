@@ -1,0 +1,7 @@
+.*.swp
+.#*
+
+Untitled*.ipynb
+venv
+*.pyc
+__pycache__
